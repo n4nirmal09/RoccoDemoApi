@@ -1,5 +1,4 @@
 {
-
   "posts": [
     {
       "id": 1,
@@ -14,7 +13,6 @@
       "title": "Post 3"
     }
   ],
-
   "getRestuarant": {
     "MealTypes": {
       "Breakfast": "Breakfast",
@@ -23,30 +21,27 @@
     },
     "MaxCovers": 8,
     "HotelDataWarehouseReference": "BAL",
-    "StartingDateString": ""
+    "StartingDateString": "",
+    "timeSlots": [
+      {
+        "ResponseId": 6,
+        "PlanTime": "1900-01-01T17:30:00+00:00",
+        "Available": false,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 6,
+        "PlanTime": "1900-01-01T17:30:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      }
+    ]
   },
-
-  "timeSlots": [
-    {
-      "ResponseId": 6,
-      "PlanTime": "1900-01-01T17:30:00+00:00",
-      "Available": false,
-      "ReturnTime": "1900-01-01T19:30:00+00:00"
-    },
-    {
-      "ResponseId": 6,
-      "PlanTime": "1900-01-01T17:30:00+00:00",
-      "Available": true,
-      "ReturnTime": "1900-01-01T19:30:00+00:00"
-    }
-  ],
-
   "booking": {
-    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
-  },
-
-  "personalDetails": {
-    "Success" : true,
-    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
+    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e",
+    "personalDetails": {
+      "Success": true,
+      "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
+    }
   }
 }
