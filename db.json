@@ -25,13 +25,61 @@
     "timeSlots": [
       {
         "ResponseId": 6,
-        "PlanTime": "1900-01-01T17:30:00+00:00",
+        "PlanTime": "2021-05-01T06:00:00+00:00",
         "Available": false,
         "ReturnTime": "1900-01-01T19:30:00+00:00"
       },
       {
-        "ResponseId": 6,
-        "PlanTime": "1900-01-01T17:30:00+00:00",
+        "ResponseId": 7,
+        "PlanTime": "2021-05-01T06:30:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 8,
+        "PlanTime": "2021-05-01T07:00:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 9,
+        "PlanTime": "2021-05-01T07:30:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 10,
+        "PlanTime": "2021-05-01T08:00:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 11,
+        "PlanTime": "2021-05-01T08:30:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 12,
+        "PlanTime": "2021-05-01T09:00:00+00:00",
+        "Available": false,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 13,
+        "PlanTime": "2021-05-01T09:30:00+00:00",
+        "Available": false,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 14,
+        "PlanTime": "2021-05-01T10:00:00+00:00",
+        "Available": true,
+        "ReturnTime": "1900-01-01T19:30:00+00:00"
+      },
+      {
+        "ResponseId": 15,
+        "PlanTime": "2021-05-01T10:30:00+00:00",
         "Available": true,
         "ReturnTime": "1900-01-01T19:30:00+00:00"
       }
