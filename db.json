@@ -86,12 +86,10 @@
     }
   ],
   "booking": {
-    "BookingGuid": {
-      "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
-    },
-    "personalDetails": {
-      "Success": true,
-      "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
-    }
+    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
+  },
+  "personalDetails": {
+    "Success": true,
+    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
   }
 }
