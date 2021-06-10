@@ -1,16 +1,15 @@
 {
-  "posts": [
+  "stay": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "synxisHotel",
+      "Hotel": "65212",
+      "start": "availresults",
+      "locale": "en",
+      "template": "RBE"
     },
     {
-      "id": 2,
+      "id": "synxisPost",
       "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
     }
   ],
   "getRestuarant": {
