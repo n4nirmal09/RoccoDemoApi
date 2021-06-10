@@ -2,10 +2,12 @@
   "stay": [
     {
       "id": "synxisHotel",
-      "Hotel": "65212",
-      "start": "availresults",
-      "locale": "en",
-      "template": "RBE"
+      "hotel": {
+        "Hotel": "65212",
+        "start": "availresults",
+        "locale": "en",
+        "template": "RBE"
+      }
     },
     {
       "id": "synxisPost",
