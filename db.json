@@ -6,7 +6,8 @@
         "Hotel": "65212",
         "start": "availresults",
         "locale": "en",
-        "template": "RBE"
+        "template": "RBE",
+        "maxCovers": 6
       }
     },
     {
