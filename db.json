@@ -9,7 +9,8 @@
         "template": "RBE"
       },
       "settings": {
-        "maxCovers": 6
+        "maxCovers": 6,
+        "hotelType": 1
       }
     },
     {
