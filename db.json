@@ -91,13 +91,13 @@
     }
   ],
   "booking": {
-    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
+    "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e",
+    "tokenGenerator": {
+      "access_token": "adsadsaadsadadcsadsadsdsadsadsadasdasdsadaddasdsadsa"
+    }
   },
   "personalDetails": {
     "Success": true,
     "BookingGuid": "608fa944-4d89-490d-ab40-842053c7388e"
-  },
-  "tokenGenerator": {
-    "access_token": "adsadsaadsadadcsadsadsdsadsadsadasdasdsadaddasdsadsa"
   }
 }
